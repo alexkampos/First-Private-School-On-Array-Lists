@@ -26,4 +26,4 @@ A Private School System Simulator where following functionalities are implemente
 \
 &emsp;&#8226;&emsp;Print a list of students that belong to more than one courses\
 \
-&emsp;&#8226;&emsp;Based on user's given date, print a list of students who need to submit one or more assignments on the same calendar week as the given date
+&emsp;&#8226;&emsp;Based on user's given date, print a list of students who need to submit one or more assignments on the same &emsp;&nbsp;calendar week as the given date
