@@ -74,4 +74,52 @@ For the sake of this demonstration syntetic data provided in the application are
 
 #### Presentation
 
+The presentation list for user to choose.
 
+<img src="screenshots/presentation-options.PNG" />
+
+##### Option 1
+
+<img src="screenshots/students-list.PNG" />
+
+##### Option 2
+
+<img src="screenshots/trainers-list.PNG" />
+
+##### Option 3
+
+<img src="screenshots/assignments-list.PNG" />
+
+##### Option 4
+
+<img src="screenshots/courses-list.PNG" />
+
+##### Option 5
+
+<img src="screenshots/students-on-course-list.PNG" />
+
+##### Option 6
+
+<img src="screenshots/trainers-on-course-list.PNG" />
+
+##### Option 7
+
+<img src="screenshots/assignments-on-course-list.PNG" />
+
+##### Option 8
+
+<img src="screenshots/assignments-per-student-list.PNG" />
+
+##### Option 9
+
+<img src="screenshots/students-on-more-than-one-course-list.PNG" />
+
+##### Option 10
+
+If user picks option no. 10 he/she must provide a date, so the system can search for assignments need to be submitted on the same week.
+<img src="screenshots/insert-date-for-students-need-to-submit-assignment.PNG" />
+<img src="screenshots/students-need-to-submit-assignment-on-same-week-list.PNG" />
+
+##### Option 11
+
+<img src="screenshots/terminate-program.PNG" />
