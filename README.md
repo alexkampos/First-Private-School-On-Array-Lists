@@ -123,3 +123,8 @@ If user picks option no. 10 he/she must provide a date, so the system can search
 ##### Option 11
 
 <img src="screenshots/terminate-program.PNG" />
+
+## Technology & Tools
+
+<a href="https://www.java.com/en/download/">Java 8</a>
+<a href="https://netbeans.org/">Apache NetBeans IDE</a>
