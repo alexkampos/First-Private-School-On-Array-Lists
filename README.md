@@ -126,5 +126,5 @@ If user picks option no. 10 he/she must provide a date, so the system can search
 
 ## Technology & Tools
 
-<a href="https://www.java.com/en/download/">Java 8</a>
+<a href="https://www.java.com/en/download/">Java 8</a> <br>
 <a href="https://netbeans.org/">Apache NetBeans IDE</a>
