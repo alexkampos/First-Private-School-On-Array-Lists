@@ -28,5 +28,12 @@ A Private School System Simulator where following functionalities are implemente
 \
 &emsp;&#8226;&emsp;Based on user's given date, print a list of students who need to submit one or more assignments on the same &emsp;&nbsp;calendar week as the given date\
 \
-All results are based on Synthetic Data provided in the application.
+All results can be based on synthetic data provided by the application if user doesn't want to provide any.
+
+## Demonstration
+
+Starting the application it will ask the user if he/she wants to add data for the presentation or use synthetic data.
+
+<img src="screenshots/hello.png" />
+
 
