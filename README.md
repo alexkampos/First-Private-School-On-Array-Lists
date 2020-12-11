@@ -32,7 +32,7 @@ All results can be based on synthetic data provided by the application if user d
 
 ## Demonstration
 
-Starting the application it will ask the user if he/she wants to add data for the presentation or use synthetic data.
+Starting the application user will be asked if he/she wants to add data for the presentation or use synthetic data.
 
 <img src="screenshots/hello.PNG" />
 
