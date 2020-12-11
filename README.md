@@ -68,10 +68,10 @@ and students.
 
 <img src="screenshots/add-course-to-student.PNG" />
 
-After that user is asked if he/she wants to add another course. If not the presentation of data provided can begin.
+After that user is asked if he/she wants to add another course. If not, the presentation (of the data provided) can begin.
 
 For the sake of this demonstration syntetic data provided in the application are used.
 
-####Presentation
+#### Presentation
 
 
