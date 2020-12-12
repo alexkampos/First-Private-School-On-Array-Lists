@@ -78,49 +78,49 @@ The presentation list for user to choose.
 
 <img src="screenshots/presentation-options.PNG" />
 
-##### Option 1
+##### Option 1: A list of all the students.
 
 <img src="screenshots/students-list.PNG" />
 
-##### Option 2
+##### Option 2: A list of all the trainers.
 
 <img src="screenshots/trainers-list.PNG" />
 
-##### Option 3
+##### Option 3: A list of all the assignments.
 
 <img src="screenshots/assignments-list.PNG" />
 
-##### Option 4
+##### Option 4: A list of all the courses.
 
 <img src="screenshots/courses-list.PNG" />
 
-##### Option 5
+##### Option 5: All the students per course.
 
 <img src="screenshots/students-on-course-list.PNG" />
 
-##### Option 6
+##### Option 6: All the trainers per course.
 
 <img src="screenshots/trainers-on-course-list.PNG" />
 
-##### Option 7
+##### Option 7: All the assignments per course.
 
 <img src="screenshots/assignments-on-course-list.PNG" />
 
-##### Option 8
+##### Option 8: All the assignments per student.
 
 <img src="screenshots/assignments-per-student-list.PNG" />
 
-##### Option 9
+##### Option 9: A list of all the students that belong to more than one courses.
 
 <img src="screenshots/students-on-more-than-one-course-list.PNG" />
 
-##### Option 10
+##### Option 10: A list of students that needs to submit one or more assignments on the same calendar week as the given date.
 
 If user picks option no. 10 he/she must provide a date, so the system can search for assignments need to be submitted on the same week.
 <img src="screenshots/insert-date-for-students-need-to-submit-assignment.PNG" />
 <img src="screenshots/students-need-to-submit-assignment-on-same-week-list.PNG" />
 
-##### Option 11
+##### Option 11: Terminate program.
 
 <img src="screenshots/terminate-program.PNG" />
 
